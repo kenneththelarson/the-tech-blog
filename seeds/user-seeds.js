@@ -29,7 +29,7 @@ const userdata = [
     },
     {
         username: 'littlecato',
-        email: 'thundercat@galaxyone.com',
+        email: 'thunderbandit@galaxyone.com',
         password: 'password123'
     },
     {
