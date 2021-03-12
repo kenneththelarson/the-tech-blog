@@ -23,7 +23,7 @@
   * npm run seeds
 
   ## Usage
-  Click here for the deployed application: [The Tech Blog]()
+  Click here for the deployed application: [The Tech Blog](https://kenny-tech-blog.herokuapp.com/)
 
   - The user should run "npm start" to deploy the server
   - Insomnia Core is suggested to test the api endpoints
