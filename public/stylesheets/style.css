@@ -2,7 +2,7 @@
   --primary: #81b29a;
   --secondary: #f4f1de;
   --tertiary: #e07a5f;
-  --light-dark: #f2cc8f;
+  --light-dark: #818181;
   --dark: #3d405b;
   --border-radius: 0.3rem;
 }
@@ -227,7 +227,7 @@ footer {
 
 .form-input {
   width: 100%;
-  padding: 3%;
+  padding: 12px;
   margin: 5px 0;
   font-size: 1.2rem;
   border: 2px solid var(--light-dark);
